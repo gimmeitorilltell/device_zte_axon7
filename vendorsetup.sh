@@ -1,2 +1,2 @@
-add_lunch_combo lineage_axon7-eng
-add_lunch_combo lineage_axon7-userdebug
+add_lunch_combo candy_axon7-eng
+add_lunch_combo candy_axon7-userdebug
